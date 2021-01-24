@@ -67,3 +67,4 @@ int main(){
    printf("hello world");
 }
 ```
+`을 3개 이상 입력 후 뒤에 언어 종류도 적어줘야 함
